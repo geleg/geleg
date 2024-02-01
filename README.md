@@ -1,6 +1,6 @@
 # Hello, I'm Gerard Leganovic
 
-Full-Stack Web Developer | Experienced Project Manager
+Full-Stack Web Developer
 
 🚀 Welcome to my GitHub! I am experienced Project Manager with a demonstrated history of successfully managing multimillion-euro projects spanning various fields, such as IT, Research and Development, Digitalisation of Manufacturing, Marketing and others. I possess a results-driven approach and a proven ability to deliver project objectives efficiently. 
 
