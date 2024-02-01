@@ -2,9 +2,9 @@
 
 Full-Stack Web Developer | Experienced Project Manager
 
-🚀 Welcome to my GitHub! I am Project Manager with a track record of successfully overseeing multimillion-euro projects across diverse industries, including IT, Research and Development, Digitalisation of Manufacturing, and Marketing. My results-driven approach and efficient project management skills have consistently delivered successful outcomes.
+🚀 Welcome to my GitHub! I am experienced Project Manager with a demonstrated history of successfully managing multimillion-euro projects spanning various fields, such as IT, Research and Development, Digitalisation of Manufacturing, Marketing and others. I possess a results-driven approach and a proven ability to deliver project objectives efficiently. 
 
-🌐 Recently, I completed an intensive JavaScript Full-Stack Web Development course, further expanding my skill set and staying abreast of the latest technologies. I am excited about leveraging my enhanced skills to contribute to innovative projects within the IT sector.
+🌐 Complementing my Project management expertise, I have recently completed an intensive JavaScript Full-Stack Web Development course, further refining my skill set. Eager to apply my enhanced skills and knowledge, I am actively seeking opportunities within the IT sector where I can contribute to innovative projects and make a significant impact.
 
 ## Skills
 
