@@ -1,8 +1,8 @@
 # Hello, I'm Gerard Leganovic
 
-Full-Stack Web Developer
+🚀 Full-stack Web Developer passionate about building with: 💻 `JavaScript` | 🔧 `HTML` | 🎨 `CSS` | ⚛️ `React` | 🌐 `Node.js` | 📘 `TypeScript` 🚀.
 
-🚀 Welcome to my GitHub! I am experienced Project Manager with a demonstrated history of successfully managing multimillion-euro projects spanning various fields, such as IT, Research and Development, Digitalisation of Manufacturing, Marketing and others. I possess a results-driven approach and a proven ability to deliver project objectives efficiently. 
+👋 Welcome to my GitHub! I am experienced Project Manager with a demonstrated history of successfully managing multimillion-euro projects spanning various fields, such as IT, Research and Development, Digitalisation of Manufacturing, Marketing and others. I possess a results-driven approach and a proven ability to deliver project objectives efficiently. 
 
 🌐 Complementing my Project management expertise, I have recently completed an intensive JavaScript Full-Stack Web Development course, further refining my skill set. Eager to apply my enhanced skills and knowledge, I am actively seeking opportunities within the IT sector where I can contribute to innovative projects and make a significant impact.
 
